@@ -2,3 +2,6 @@
 
 *A modern, simple, and static resume theme, powered by Jekyll, Minimal Resume Theme, and GitHub pages.*
 
+## License
+
+The Modern Resume Theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
