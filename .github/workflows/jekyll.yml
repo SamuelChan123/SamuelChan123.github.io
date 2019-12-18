@@ -3,8 +3,9 @@ name: Jekyll site CI
 on: [push]
 
 jobs:
-  build:https://github.com/SamuelChan123/SamuelChan123.github.io
-
+  build: https://github.com/SamuelChan123/SamuelChan123.github.io
+    
+    runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
     - name: Build the site in the jekyll/builder container
