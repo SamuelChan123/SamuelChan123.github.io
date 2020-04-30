@@ -1,10 +1,47 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: Amazon
+  link: https://www.aboutamazon.com/
+  job_title: Software Development Engineer Intern
+  dates: 2020-05 - 2020-08
   quote: >
-   Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Will work on the Connections Assignments team, ensuring employees globally receive the
+    correct Connections content at the right time, built out through different algorithms (greedy,
+    genetic, etc.). Will work in Java and Javascript/ReactJS running in AWS
+
+- layout: left
+  company: Garmin Ltd.
+  link: https://www.aboutamazon.com/
+  job_title: Software Engineering Intern
+  dates: 2019-05 - 2019-08
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    -Improved company's integration between Jenkins and the OpenStack cloud in order to
+    more dynamically create/destroy ephemeral build nodes by implementing REST endpoints
+    for new Jenkins plugins.
+    - uilt out a Rebalancer python application that utilizes Jenkins API, OpenStack API, and the
+    created REST end points to optimize reallocation of resources between servers/increase
+    efficiency for multiple business segments to better utilize the underlying compute hardware
+
+- layout: left
+  company: G2, Inc. (Now HII)
+  link: https://www.aboutamazon.com/
+  job_title: Software Engineering Intern/Jr. Software Engineer
+  dates: 2018-05 - 2019-02
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    Accelerated the company’s DevOps model by application to automating workstation
+    environments (vm creation in the cloud), test automation, and streamlining the software dev
+    process. Worked over the summer and remotely during the fall school semester
+
+- layout: left
+  company: Amazon
+  link: https://www.aboutamazon.com/
+  job_title: Software Development Engineer Intern
+  dates: 2020-05 - 2020-08
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    Will work on the Connections Assignments team, ensuring employees globally receive the
+    correct Connections content at the right time, built out through different algorithms (greedy,
+    genetic, etc.). Will work in Java and Javascript/ReactJS running in AWS
