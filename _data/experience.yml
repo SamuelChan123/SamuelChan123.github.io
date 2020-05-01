@@ -3,7 +3,7 @@
   company: Amazon
   link: https://www.aboutamazon.com/
   job_title: Software Development Engineer Intern
-  dates: 2020-05 - 2020-08
+  dates: 05/2020 - 08/2020
   quote: >
   description: | # this will include new lines to allow paragraphs
     Will work on the Connections Assignments team, ensuring employees globally receive the
@@ -12,23 +12,24 @@
 
 - layout: left
   company: Garmin Ltd.
-  link: https://www.aboutamazon.com/
+  link: https://careers.garmin.com/en-US/
   job_title: Software Engineering Intern
-  dates: 2019-05 - 2019-08
+  dates: 05/2019 - 08/2019
   quote: >
-  description: | # this will include new lines to allow paragraphs
-    -Improved company's integration between Jenkins and the OpenStack cloud in order to
+  description: |+ # this will include new lines to allow paragraphs
+    Improved company's integration between Jenkins and the OpenStack cloud in order to
     more dynamically create/destroy ephemeral build nodes by implementing REST endpoints
     for new Jenkins plugins.
-    - uilt out a Rebalancer python application that utilizes Jenkins API, OpenStack API, and the
+
+    Built out a Rebalancer python application that utilizes Jenkins API, OpenStack API, and the
     created REST end points to optimize reallocation of resources between servers/increase
     efficiency for multiple business segments to better utilize the underlying compute hardware
 
 - layout: left
   company: G2, Inc. (Now HII)
-  link: https://www.aboutamazon.com/
+  link: https://www.g2-inc.com/
   job_title: Software Engineering Intern/Jr. Software Engineer
-  dates: 2018-05 - 2019-02
+  dates: 05/2018 - 02/2019
   quote: >
   description: | # this will include new lines to allow paragraphs
     Accelerated the company’s DevOps model by application to automating workstation
@@ -36,12 +37,12 @@
     process. Worked over the summer and remotely during the fall school semester
 
 - layout: left
-  company: Amazon
-  link: https://www.aboutamazon.com/
-  job_title: Software Development Engineer Intern
-  dates: 2020-05 - 2020-08
+  company: Johns Hopkins University Applied Physics Lab
+  link: https://www.jhuapl.edu/Careers
+  job_title: Software Intern
+  dates: 08/2015 - 05/2017
   quote: >
   description: | # this will include new lines to allow paragraphs
-    Will work on the Connections Assignments team, ensuring employees globally receive the
-    correct Connections content at the right time, built out through different algorithms (greedy,
-    genetic, etc.). Will work in Java and Javascript/ReactJS running in AWS
+    Overhauled several coding classes and tested retrieval of telemetry packets from simulated
+    testbeds for Solar Probe Plus (now Parker Solar Probe), create log parser to extract useful
+    information from test telemetry packets that impacted 10+ JHUAPL staff in the section

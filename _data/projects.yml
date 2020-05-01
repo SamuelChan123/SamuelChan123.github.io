@@ -1,9 +1,62 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    Short overview of the project (optional)
+  name: CodingTheCollection
+  link: https://github.com/SamuelChan123/CodingTheCollection
+  github: SamuelChan123/CodingTheCollection
+  quote: > # Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    - Skills: React, Firebase Realtime Database, FirebaseApp Deployment
+    - Developed and delivered a web app for the Nasher Museum of Art to give contextualization
+    to different art pieces, worked directly with museum curators and professors to deliver on
+    project specs, handover in December 2019 
+    - Allowed user sign in, collaboration on art projects, upload of images and adding of descriptions to pieces
+    - Firebase for backend, React on front end, deployed as a Firebase App
+
+- layout: top-middle
+  name: WhereYouAt
+  link: http://github.com/SamuelChan123/WhereYouAt
+  github: SamuelChan123/WhereYouAt
+  quote: > # Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+    - Skills: Swift, iOS App, Firebase
+    - Built an iOS app designed to make meet-ups between friends easier, had ability to add friends, find friends' locations 
+    and display statuses
+    - Developed in XCode and Swift, Firebase for backend user auth, data storage
+
+- layout: top-middle
+  name: HitchRide
+  link: https://github.com/SamuelChan123/HitchRide
+  github: SamuelChan123/HitchRide
+  quote: > #Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+    - Skills: APIs, AWS Deployment, React
+    - Built a full stack web app that provides a ride-sharing network of students for students. Connects students with each other on the same ride, exchanges emails.
+    - Axios.js for HTTP requests between front-end (React) and back-end (Postgres/Python), deployed in AWS EC2 instance, utilized an Amazon RDS database
+    - Google Maps/Leaflet APIs to display locations and map information to user
+
+- layout: top-middle
+  name: ResearchHub
+  link: https://github.com/SamuelChan123/researchhub
+  github: SamuelChan123/researchhub
+  quote: > # Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+    - Skills: PostgresSQL Database Schema, Front-End Design, GCP Deployment
+    - Built a web app that connects students to research opportunities by providing them up to
+    date information that they need in order to determine which lab to research in. Developed a
+    query system that would allow students to look for projects that have been posted, or look
+    for Duke faculty to directly contact.
+    - React/Javascript was used on the front end, python flask + SQLAlchemy + PostgreSQL on
+    the backend running on a virtual machine deployed through GCP
+
+- layout: top-middle
+  name: JavaFXMonopoly
+  link: https://github.com/SamuelChan123/monopoly
+  github: SamuelChan123/monopoly
+  quote: > # Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+    - Skills: Object-Oriented Design, git, MVC Architecture 
+    - Fully constructed a JavaFX-based data-driven game of Monopoly and several variations
+    and themes that allows users to select type of game, save/load different game
+    configurations, and play a completely functional and aesthetically pleasing game.
+    - Employed a MVC architectural pattern and utilized OOP design principles, took initiative on
+    setting up git and ensuring commits, merging, and branches were appropriately made.

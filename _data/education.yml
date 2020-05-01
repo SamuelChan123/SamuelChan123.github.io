@@ -2,14 +2,12 @@
 - layout: left
   name: Duke University
   dates: August 2017 - May 2021
-  qualification: "B.S. Computer Science, Minor in Political Science, GPA: 3.725/4.0"
-  quote: |
-    HackDuke Planning Team Co-Director 2019, Outreach/Logistics Lead 2018,
-    The Cube Innovation & Entrepreneurship Selective Living Group,
-    Duke Effective Altruism (Arete Fellowship)
-    Intramural Basketball, Frisbee, Volleyball
+  qualification: "B.S. Computer Science, Minor in Political Science"
+  # quote: |
 
-  description: | # this will include new lines to allow paragraphs
-    Relevant Coursework: Data Structures & Algorithms (CS 201), Discrete Math for Computer
-    Science (CS 230), Computer Architecture (CS 250), Operating Systems (CS 310), Database
-    Systems (CS 316), Computer Implementation & Design (CS 307), Delivering Software to Clients (CS 408), Intro to Machine Learning (CS 371)
+  description: |+ # this will include new lines to allow paragraphs
+    Relevant Coursework: Data Structures & Algorithms, Discrete Math, Computer Architecture,
+    Operating Systems, Database Systems, Software Implementation & Design, Delivering
+    Software to Clients, Mobile Development, Algorithms, Machine Learning, Probability 
+
+    GPA: 3.74/4.0

@@ -6,10 +6,10 @@ repository: #SamuelChan123/SamuelChan123.github.io
 name: Samuel P. Chan
 title: Software Engineer
 email: samuelchaneiusgloria@gmail.com
-phone: 410-428-2378
+phone: (410) 428-2378
 website: SamuelChan123.github.io
 
-darkmode: false
+darkmode: never
 
 # Social links
 github_username: SamuelChan123
@@ -32,28 +32,35 @@ linkedin_username: samuelpchan
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: ../favicon.png
+about_profile_image: ../favicon.ico
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Hey there! My name is Sam and I'm a software engineer graduating from Duke in May 2021 with a B.S. in Computer Science. 
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
+  I've always been really fascinated and passionate about how tech and social good can intersect, and I'm constantly looking for opportunities
+  to make a difference in the world :)
 
+  Some of my hobbies include: playing and watching sports (especially basketball), discussing politics, 
+  hanging out with friends and family, hiking/camping, and watching Christopher Nolan movies.
 # Projects Section
 projects_title: Projects #(Use this to override about projects section title)
 
 # Experience Section
-experience_title: Experience #(Use this to override about experience section title)
+experience_title: Work Experience #(Use this to override about experience section title)
 
 # Education Section
 education_title: Education #(Use this to override about education section title)
 
 # More Section
-more_title: Organizations #(Use this to override about more section title)
+more_title: Organizations/Interests #Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
+  - HackDuke Planning Team Co-Director 2019, Outreach/Logistics Lead 2018/2020: 
+    1. Organized the annual Code for Good collegiate hackathon, drawing 600+ students from across the nation to ideate about 140 projects that aim to positively impact our social environment
+    2. Collaborated with 25+ teammates to reach out to 20 companies and secure a total of over $40k in sponsorship, coordinate team events, manage logistics, speak directly with corporate representatives and Duke University administration
+    3. Directly reached out to and coordinated with total of 10+ professors, 30+ company recruiters and speakers, implemented eries of 10+ workshops before and during the hackathon to educate 200+ students about technical and out-of-classroom skills
+  - The Cube (Innovation & Entrepreneurship Selective Living Group)
+  - Duke Effective Altruism (Arete Fellowship)
+  - Intramural Sports (Basketball, Volleyball, Wallyball, Frisbee)
+  - Duke InterVarsity (Afterhours Social Team)
 
 # Footer
 footer_show_references: true
